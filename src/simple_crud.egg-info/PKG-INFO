@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: simple-crud
+Version: 0.1.0
+Summary: Add your description here
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: fastapi>=0.115.13
+Requires-Dist: bcrypt==3.2.2
+Requires-Dist: passlib[bcrypt]>=1.7.4
+Requires-Dist: psycopg2-binary>=2.9.10
+Requires-Dist: sqlmodel>=0.0.24
+Requires-Dist: uvicorn>=0.33.0

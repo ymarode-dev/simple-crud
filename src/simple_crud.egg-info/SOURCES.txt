@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/auth/__init__.py
+src/auth/auth.py
+src/database/__init__.py
+src/database/database.py
+src/models/__init__.py
+src/models/models.py
+src/schema/__init__.py
+src/schema/schemas.py
+src/simple_crud.egg-info/PKG-INFO
+src/simple_crud.egg-info/SOURCES.txt
+src/simple_crud.egg-info/dependency_links.txt
+src/simple_crud.egg-info/requires.txt
+src/simple_crud.egg-info/top_level.txt
