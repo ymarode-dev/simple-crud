@@ -13,3 +13,5 @@ src/simple_crud.egg-info/SOURCES.txt
 src/simple_crud.egg-info/dependency_links.txt
 src/simple_crud.egg-info/requires.txt
 src/simple_crud.egg-info/top_level.txt
+src/tasks/tasks.py
+src/tests/test_tasks.py

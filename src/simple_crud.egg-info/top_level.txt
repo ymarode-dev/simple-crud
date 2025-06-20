@@ -2,3 +2,5 @@ auth
 database
 models
 schema
+tasks
+tests

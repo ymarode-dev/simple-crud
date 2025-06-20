@@ -38,4 +38,4 @@ def signup_user(data: schemas.SignUpData, db: Session):
     db.add(new_user)
     db.commit()
     db.refresh(new_user)
-    return {'msg': 'User created successfully!', 'user_id': new_user.id}
+    return {'msg': 'User created successfully!', 'user_id': new_user.user_id}
